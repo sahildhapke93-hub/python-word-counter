@@ -6,5 +6,5 @@ This project is a simple Python program that reads any text or document typed by
 * Total number of words
 * Total number of characters (letters and spaces)
 * Number of sentences and paragraphs
-* How many unique (different) words are used
+* How many unique (different) words are used                                                                                                                          
 It also shows which words are repeated most often and can ignore common words (like is, the, and) to give better results.
